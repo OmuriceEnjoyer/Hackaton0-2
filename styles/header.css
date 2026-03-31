@@ -1,0 +1,9 @@
+/* Header Block */
+.header {
+    position: relative;
+    z-index: 100;
+}
+
+body {
+    padding-top: 70px;
+}
